@@ -1,0 +1,27 @@
+{
+  "721": {
+    "e43c4eeb0bd0510534bdcb0f9cbb1a4a6ca16359c9dd9f6b3d762896": {
+      "KRL": {
+        "description": "The all awesome power of Kangaroo Karl",
+        "files": [
+          {
+            "mediaType": "image/png",
+            "name": "KRL",
+            "src": "ipfs://QmemRoQ4Yo64Wxf4mtS5ASRVJVCEcSeJiXZv6mEPnLJnuM"
+          }
+        ],
+        "image": "ipfs://QmemRoQ4Yo64Wxf4mtS5ASRVJVCEcSeJiXZv6mEPnLJnuM",
+        "mediaType": "image/png",
+        "minting": {
+          "blockchain": "cardano",
+          "mintedBeforeSlotNumber": 100058845,
+          "type": "time-lock-policy"
+        },
+        "name": "Kangaroo Karl",
+        "symbol": "KRL",
+        "tokenType": "token",
+        "totalSupply": 12021851
+      }
+    }
+  }
+}
